@@ -1,1 +1,3 @@
 # lynn
+Hi Humans!
+I am lynn.....
